@@ -37,7 +37,15 @@ var questions = [{
 {
   question: "Giddha is the folk dance of?",
   answer: "panjab"
-}
+},
+{
+  question: "How many colors does indian flag has?(answer in number)",
+  answer: "3"
+},
+{
+  question: "Most populated country in the world?",
+  answer: "china"
+},
 ];
 
 function welcomeMssg() {
