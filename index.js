@@ -51,7 +51,7 @@ var questions = [{
 function welcomeMssg() {
   var userName = readlineSync.question("What's your name? ");
 
-  console.log("\nWelcome " + userName + " to 'DO YOU KNOW MURTAZA' ?\n");
+  console.log("\nWelcome " + userName + " to 'Indian Gk Quiz' ?\n");
 }
 
 function play(question, answer) {
